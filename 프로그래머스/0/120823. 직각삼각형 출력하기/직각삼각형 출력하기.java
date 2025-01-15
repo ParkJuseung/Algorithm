@@ -6,8 +6,7 @@ public class Solution {
         int n = sc.nextInt();
         
         for(int i = 1; i<=n;i++){
-            System.out.print("*".repeat(i));
-            System.out.println();
+            System.out.println("*".repeat(i));
         }
     }
 }

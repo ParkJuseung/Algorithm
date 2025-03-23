@@ -20,7 +20,7 @@ public class Main {
         for(int num : result){
             System.out.print(num + " ");
         }
-        System.out.println(cards.peek());
+        System.out.println(cards.peek()); 
     }
 }
 
